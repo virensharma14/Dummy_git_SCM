@@ -1,0 +1,7 @@
+2. git add . (or name which needs to be staged)
+1. git init
+3. git status
+4. git commit -m "commit has been made"
+5. git restore --staged file_name.txt
+
+
