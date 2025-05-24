@@ -2,6 +2,6 @@
 1. git init
 3. git status
 4. git commit -m "commit has been made"
-5. git restore --staged file_name.txt
-
+5. git restore --staged file_name.txt (to make file unstaged)
+6. git reset (commit_id) [used to put commits into the unstaged area]
 
