@@ -11,4 +11,9 @@
 11. git remote -v
 12. git remote set url
 12. git push origin master
+13. git branch name_of_brnach
+14. git checkout branch
+15. Works on directed acyclic graph
+16. git merge branch_name (from master branch)
+
  
