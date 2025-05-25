@@ -20,4 +20,7 @@
 19. Set the token 
 20. Create different pull request for different branches (as hundreds of features may have different lines of code and you would want 
 to include them in different pull requests so that you can properly see the changes )
+21. git fetch  --all -- prune
+22.  git reset --hard upstream/master
+23. git remote syntax of link url-git@github.com:controllerstech/STM32.git 
  
