@@ -17,4 +17,7 @@
 16. git merge branch_name (from master branch)
 17.git remote add upstream https://github.com/controllerstech/STM32 (upstream name given to remote branch forked)
 18, Always use SSH so link should be git@github.com:hjwbwf.com
-19. Set the token  
+19. Set the token 
+20. Create different pull request for different branches (as hundreds of features may have different lines of code and you would want 
+to include them in different pull requests so that you can properly see the changes )
+ 
