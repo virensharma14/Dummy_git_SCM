@@ -15,5 +15,5 @@
 14. git checkout branch
 15. Works on directed acyclic graph
 16. git merge branch_name (from master branch)
-
+17.git remote add upstream https://github.com/controllerstech/STM32 (upstream name given to remote branch forked)
  
