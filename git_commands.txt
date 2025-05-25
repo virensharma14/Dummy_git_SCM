@@ -27,4 +27,5 @@ to include them in different pull requests so that you can properly see the chan
 25. git pull -Downloads changes from the remote repository and automatically merges them into the current local branch. It is essentially a combination of git fetch followed by git merge.
 26. squashing commits (all the commits into a single commit)
 27. git rebase -i 5aa765b7a80311178a740f541a6c31b253e71bf2
-28. The s placed below a particular pick will be sqaushed with the pick 
+28. The s placed below a particular pick will be sqaushed with the pick
+29. git branch -d new (delete branch) 
