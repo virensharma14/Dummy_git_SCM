@@ -12,4 +12,3 @@
 12. git remote set url
 12. git push origin master
 
-14. I am making changes to check merge conflict 
