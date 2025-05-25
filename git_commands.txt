@@ -7,4 +7,8 @@
 7. git stash (to put changes in backstage which could be brought back using 8.)
 8. git stash pop
 9. git stash clear (to clear the backstage stashed changes permanently)
-10. git remote add origin url(to add a remote repository to the local repository-name of the URL is origin) 
+10. git remote add origin url(to add a remote repository to the local repository-name of the URL is origin)
+11. git remote -v
+12. git remote set url
+12. git push origin master
+ 
