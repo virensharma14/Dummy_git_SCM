@@ -23,4 +23,5 @@ to include them in different pull requests so that you can properly see the chan
 21. git fetch  --all -- prune
 22.  git reset --hard upstream/master
 23. git remote syntax of link url-git@github.com:controllerstech/STM32.git 
- 
+24. git fetch -Downloads changes from the remote repository but does not integrate them into the local working branch.
+25. git pull -Downloads changes from the remote repository and automatically merges them into the current local branch. It is essentially a combination of git fetch followed by git merge. 
